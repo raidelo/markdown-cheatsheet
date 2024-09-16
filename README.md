@@ -162,10 +162,12 @@ Content Cell  | Content Cell | Content Cell
 
 - [ ] An uncompleted task
     - [ ] A subtask
+        - [x] A sub-subtask completed
 
 ~~~
  Markup : - [ ] An uncompleted task
               - [ ] A subtask
+                  - [x] A sub-subtask completed
 ~~~
 
 > Blockquote
@@ -178,6 +180,14 @@ _Horizontal line :_
 - - - -
 
     Markup :  - - - -
+
+    -OR-
+
+    Markup :  ***
+
+    -OR-
+
+    Markup :  ___
 
 _Image with alt :_
 
